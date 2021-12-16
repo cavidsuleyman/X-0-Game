@@ -1,0 +1,119 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header{
+    width: 500px;
+    height: 50px;
+    background-color: brown;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 20px;
+
+}
+
+.header-left{
+    width: 110px;
+    height: 50px;
+    background-color: transparent;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: white;
+    /* line-height: 50px; */
+}
+
+.img-left{
+
+    width: 50px;
+    height: 50px;
+    background-color: yellow;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+}
+
+.img-left img{
+    width: 30px;
+}
+
+.time{
+    width: 40px;
+    height: 40px;
+    background-color: transparent;
+    border: 1px solid yellow;
+    border-radius: 50%;
+    line-height: 40px;
+    text-align: center;
+    color: white;
+
+}
+
+
+.header-right{
+    width: 110px;
+    height: 50px;
+    background-color: transparent;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: white;
+    text-align: right;
+    /* line-height: 50px; */
+}
+
+.img-right{
+
+    width: 50px;
+    height: 50px;
+    background-color: yellow;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+}
+
+.img-right img{
+    width: 30px;
+}
+
+section{
+/* background-color: red; */
+width: 700px;
+height: 800px;
+background-image: url('../img/board.png');
+background-repeat: no-repeat;
+margin-left: auto;
+margin-right: auto;
+background-color: transparent;
+margin-top: 100px;
+display: flex;
+/* justify-content: space-around; */
+/* align-items: center; */
+
+}
+
+
+table, td, tr{
+    width: 450px;
+    height: 120px;
+    margin-left: auto;
+    margin-right: auto;
+    border-collapse: separate;
+    margin-top: 50px;
+    border: 2px solid white;
+    text-align: center;
+  
+}
+
+
+section table td img{
+    width: 50px;
+}
