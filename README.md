@@ -31,6 +31,8 @@ This project was developed using the following technologies
 
 ## SAMPLE SCREEN APPEARANCE
 
-![There was a screenshot here](./screen_1.PNG)
-![There was a screenshot here](./screen_2.PNG)
+![There was a screenshot here](./screen_1.1PNG)
+![There was a screenshot here](./screen_1.2PNG)
+![There was a screenshot here](./screen_1.3PNG)
+
 
